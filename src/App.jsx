@@ -14,10 +14,11 @@ function App() {
     <>
       <section className="h-screen w-[80%] flex mx-auto items-center">
         <div className="h-auto flex flex-row sm:flex-col-reverse space-x-10 sm:space-x-0 ">
-          <div className="flex flex-col justify-center space-y-5 text-base">
+          <div className="flex flex-col justify-center space-y-5 text-base w-full">
             <h1>Hi! I'm Shania Cabrera</h1>
             <p>
              I study information science and game design at Cornell University.
+             Here is more text.
             </p>
             <div className="flex flex-row items-center space-x-2">
               <img src={location} />
