@@ -43,6 +43,10 @@ function App() {
               <a href="https://www.linkedin.com/in/shania-cabrera/">
                 <img src={linkedinlogo} />
               </a>
+
+              <a href= 'index.jsx'>
+                <img src={linkedinlogo} />
+              </a>
             </div>
           </div>
           <div className="flex justify-center ">

@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Shania Cabrera - Portfolio</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <style>
-      @import url("https://fonts.googleapis.com/css?family=Jost:300,400,500,italic|Geostar:400|Poppins:400");
+@import url("https://fonts.googleapis.com/css?family=Jost:300,400,500,italic|Geostar:400|Poppins:400");
       @font-face {
         font-family: "Circular Spotify Text-Black";
         src: url("https://anima-uploads.s3.amazonaws.com/5df22df76eb6999d84a22a66/CircularSpotifyText-Black.otf")
@@ -17,9 +10,7 @@
         src: url("https://anima-uploads.s3.amazonaws.com/5c52e6322001ae000b0b0894/CircularSpotifyText-Book.otf")
           format("opentype");
       }
-    </style>
-    <style>
-      @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
       * {
         -webkit-font-smoothing: antialiased;
         box-sizing: border-box;
@@ -37,11 +28,3 @@
       a {
         text-decoration: none;
       }
-    </style>
-    <link href="styleguide.css" rel="stylesheet" />
-  </head>
-  <body>
-    <div id="app"></div>
-    <script type="module" src="./src/index.jsx"></script>
-  </body>
-</html>
