@@ -1,11 +1,11 @@
 [
   {
-    "name": "Project Name",
+    "name": "Groove that Goob",
     "logo": "/img/projectimg.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+    "description": "A rhythm stealth game where players guide an alien through a penthouse party.",
     "link": "",
     "tools": [
-      "React",
+      "Adobe Photoshop",
       "Figma",
       "Git"
     ]

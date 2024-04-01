@@ -17,9 +17,10 @@ function App() {
           <div className="flex flex-col justify-center space-y-5 text-base w-full">
             <h1>Hi! I'm Shania Cabrera</h1>
             <p>
-             I study information science and game design at Cornell University.
-             Here is more text.
+              Hi! I'm Shania Cabrera, a UX designer and UI engineer from Cornell University.
+              As a prospective UX designer, my goal is to contribute to the development of tools that empower artists in their craft. Whether it's the enchanting world of music production, game design, or content distribution, I am driven by the desire to enhance the way artists engage with their tools.
             </p>
+
             <div className="flex flex-row items-center space-x-2">
               <img src={location} />
               <p>Ithaca, United States</p>
@@ -30,7 +31,7 @@ function App() {
             </div>
 
             <div className="flex flex-row h-10 space-x-2">
-              <a href="https://github.com/shania-cabrera?tab=repositories">
+              <a href="https://github.com/shania-cabrera">
                 <img src={githublogo} />
               </a>
               <a href="">
